@@ -1,14 +1,14 @@
-# Hi there 👋 I'm Ashar Hasnain
+<b>Ashar Hasnain</b><br/>
+Contact No +923442158173
 
-💻 Flutter Developer | 🎨 Graphic Designer | 📱 Mobile App Enthusiast
+💻 Flutter Developer | 🎨 Graphic Designer | Accountant
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on Flutter projects  
-- 🌱 I’m learning advanced UI/UX & backend integration  
-- 🎯 Goal: Become a professional Full Stack Mobile Developer  
-- 💬 Ask me about Flutter, UI Design, or Graphic Design  
+- 🔭 I’m currently working jobs on (Accountant, Payroll Office, Inventory stock and etc) 
+- 🌱 I’m learning advanced UI/UX & Flutter. 
+- 💬 Ask me about Accountant, Flutter, UI Design, or Graphic Design  
 - 📍 Based in Pakistan  
 
 ---
@@ -40,4 +40,4 @@
 ---
 
 ## ✨ Fun Fact
-I love turning ideas into real mobile apps 🚀
+I love turning ideas into real graphics and mobile apps 🚀
